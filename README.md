@@ -1,2 +1,6 @@
 # Handwritten_digit_recognition
 手写数字识别
+
+分别有pytorch版本和非pytorch版本
+
+pytorch版本训练集需要从网上下载，因为太大了所以没有放在github上
